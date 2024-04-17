@@ -6,6 +6,9 @@ global.room5_goal_count = 7;
 global.room6_goal_count = 6;
 global.room7_goal_count = 6;
 global.room8_goal_count = 8;
+global.room9_goal_count = 9;
+global.room10_goal_count = 5;
+global.room11_goal_count = 11;
 global.goal_count = global.room1_goal_count;
 
 // Initialize values

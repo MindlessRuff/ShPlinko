@@ -26,4 +26,10 @@ switch room {
 	case Room8:
 		global.goal_count = global.room8_goal_count;
 		break;
+	case Room9:
+		global.goal_count = global.room9_goal_count;
+		break;
+	case Room10:
+		global.goal_count = global.room10_goal_count;
+		break;
 }
